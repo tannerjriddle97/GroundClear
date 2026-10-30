@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "groundclear",
+  "name": "GroundClear",
+  "authors": ["GroundClear"],
+  "description": "Preview and selectively clear loose item drops within 16 blocks. Open with .groundclear or use /groundclear commands.",
+  "version": "1.0.0",
+  "side": "Universal",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
+  "dependencies": { "game": "1.22.7" }
+}

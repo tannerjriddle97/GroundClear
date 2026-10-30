@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><AssemblyName>GroundClearRuntimeTests</AssemblyName></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../GroundClear.csproj" />
+    <Reference Include="VintagestoryAPI"><HintPath>E:/Games/Vintagestory/VintagestoryAPI.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>
